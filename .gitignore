@@ -2,4 +2,7 @@ dist/
 logs/
 node_modules/
 .env
-.pnpg-store
+.pnpm-store
+.DS_Store
+*.log
+drizzle/.env
